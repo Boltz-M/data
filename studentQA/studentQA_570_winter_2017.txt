@@ -152,4 +152,135 @@ What are shortage costs?
 These are costs that decline with increases in the level of investment in current assets.
 What are carrying costs?
 These are costs that increase with the level of investments in current assets.
-
+What is the  average tax rate?
+It is the percent of income that goes to pay taxes.
+What is the marginal tax rate?
+It is the tax you would pay (in percent) if you earned one more dollar.
+What is the benefit of using common-size statements?
+It allows the user to analyze companies of different sizes and currency usage.
+What problems could occur when comparing statements with financial ratios?
+They may not be calculated the same from company to company.
+What is the purpose of the Enterprise Value measure?
+To estimate what it would take to purchase the outstanding stock and pay off the debt of a firm.
+The Du Pont identity tells us that ROE is affected by what three things?
+Operating efficency, asset use efficiency, and financial leverage.
+What is the Capital Intensity Ratio?
+The amount of assets needed to generate $1 in sales.
+What is the sustainable growth rate?
+The maximum rate of growth a firm can maintain without increasing its financial leverage.
+What four factors help determine a company's ability to sustain growth?
+Profit margin, dividend policy, financial poicy, and total asset turnover.
+What is future value?
+It is the value of a sum after investing over one or more periods.
+What is compounding?
+It is the process of leaving the money in the financial market and lending it for another year.
+What is a perpetuity?
+It is a constant stream of cash flows without end.
+What is an annuity?
+It is a level of regular payments that lasts for a fixed number of periods.
+In what way could you evaluate the value of a small company?
+One could calculate the present value of its future cash flows.
+What is the payback period rule?
+A particular cutoff date is selected and all projects that have a payback period that is less than the selected date are accepted.
+What are some problems with the use of the payback period for project sselection.
+Does not consider cash flows during and after the payback period and the selecting the payback period is arbitrary.
+When do most companies use the payback method?
+It is used for minor investment decisions.
+What is the basic rational behind the Internal Rate of Return (IRR)?
+It provides a single number summarizing the merits of a project.
+What is the main difference between corporate finance and corporate accounting?
+Finance focuses more on cash flows wheras accounting focuses on earnings.
+Should sunk costs be considered when evaluating whether to accept a project or not?
+Sunk cost should not be considered.
+What is erosion?
+It occurs when a new product reduces the cash flows for another product.
+What is synergy?
+This occurs when a new project increases the cash flows of existing projects.
+what is real cash flow?
+Adjusting for inflation, it is the purchasing power of the cash flow.
+What is a flaw in NPV analysis?
+It ignores adjustments that a firm can make after a project is accepted, called real options.
+What are three examples of real options?
+The option to expand, abandon, and timing.
+How do you calculate total dollar return on an investment?
+Dividend income plus capital gain (or loss)
+How do you calculate percentage return on an investment?
+Dividend yield + Capital gain (loss)
+What is the excess return on the risky asset?
+The difference between the return on risky asset and a risk-free asset.
+What is the equity risk premium?
+The average excess return from bearing risk.
+What measures are used to quntify risk?
+Variance and standard deviation.
+What is geometric average return?
+It is the average compound return per year over a particular period.
+What is arithmetic average return?
+It is your return in an averae year over a particular period.
+In what situation would it be best to use geometric average return?
+When analyzing the history of an investment to find the average earned, compounded annually.
+In what situation would it be best to used arithmetic average return?
+In making future estimates as it tells the average eanred in a typical year.
+What is one of the most common ways to measure volatility on a security?
+Variance
+What is the ideal portfolio for an investor?
+One with a high expected return and a low standard deviation of return.
+What amount of risk is associated with the minimum variance in a portfolio?
+This point would have the least possible risk.
+What two components determine the return on a stock?
+Normal (expected) return & uncertain (risky) return.
+What is systematic risk?
+Any risk that affects a large number of assets, each to a greater or lesser degree.
+What is unsystematic risk?
+A risk that specifically affects a single asset or a small group of assets.
+What risk cannot be limited due to diversification?
+Systematic risk
+What is the security market line?
+A graphical depiction of the capital asset pricing model.
+What is beta of a security?
+It is the standardized covariance of a security's return with the return on the market portfolio.
+What three factors help determine beta?
+The cyclical nature of revenues, operatin leverage, & financial leverage.
+What does weighted average cost of capital measure?
+The average cost of equity and of debt.
+What is a proxy?
+It is a grant of authority by a shareholder to someone else to vote their shares.
+Why may there be multiple classes of stock?
+Usually to preserve a controlling interest in the firm.
+What are dividends?
+They are paid to shareholders as a return on capital invested into the corporation.
+What two advantages does preferred stock have over common stock?
+It has preference over payments of dividends and distribution of assets in the event of liquidation.
+What is indenture?
+It is the written agreement between the corporation and its creditors.
+What is a sinking fund?
+It is an account managed by the bond trustee for the purpose of repaying the bonds.
+What is a protective covenant?
+It is the part of the indenture or loan agreement that limits certain actions a company might otherwise wish to take during the term of the loan.
+What is a Eurobond?
+It is a bond issued in multiple countries but denominated in a single currency.
+How is the value of the firm defined?
+As the market value of the debt plus the market value of the equity.
+What advantage does the levered firm have on an all-equity firm?
+Interest is deductible on debt causing the tax liability to be less.
+What is bankruptcy?
+It is where ownership of the firm's assets are legally transfered from the stockholders to the bondholders.
+Why does the possibility of bankruptcy have a negative effect on the firm?
+Because of the costs associated with bankruptcy.
+What are some indirect costs of financial distress?
+Issues with conduct with customers and suppliers and loss of sales.
+What does the static trade-off theory imply?
+That there is an optimal amount of debt for any individual firm.
+What are marketable claims?
+They can be bought or sold in financial markets.
+What are nonmarketable claims?
+They cannot be bought or sold on financial markets.
+What happens to nonmarketable claims if marketable claims rise.
+Nonmarketable claims will decrease proportionately.
+What would signal that a firm has a higher value to investors?
+A higher debt level.
+What are exchange offers?
+Offers from the firm to convert equity to debt or vice versa.
+As debt rises what does the cost of distress do?
+It rises as well.
+Can personal taxes affect a firm's capital structure?
+Yes they can.
